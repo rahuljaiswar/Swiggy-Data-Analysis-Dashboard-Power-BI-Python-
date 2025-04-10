@@ -3,12 +3,12 @@
 This project analyzes and visualizes restaurant order data (inspired by Swiggy) using **Python** for data preparation and **Power BI** for dashboard visualization.
 
 ---
-### 📂 Download the Full Dataset
+### Download the Full Dataset
 
 Due to GitHub's file size limitations, the full dataset files (`Master.csv` and raw CSVs) are hosted externally.
 
-> 📦 **Download from Google Drive**  
-> 🔗 [Click here to access the dataset](https://drive.google.com/drive/folders/1haio_Hl5gjGrtlj-t_Tb2ivQgIyiKyGr?usp=sharing)
+>  **Download from Google Drive**  
+>  [Click here to access the dataset](https://drive.google.com/drive/folders/1haio_Hl5gjGrtlj-t_Tb2ivQgIyiKyGr?usp=sharing)
 
 
 ---
